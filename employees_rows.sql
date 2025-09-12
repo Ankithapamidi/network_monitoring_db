@@ -1,0 +1,1 @@
+INSERT INTO "public"."employees" ("id", "name", "role", "salary") VALUES ('1', 'Ankitha', 'Database Manager', '60000'), ('2', 'Harish', 'Backend Developer', '55000'), ('3', 'Sita', 'Frontend Developer', '50000'), ('4', 'Ravi', 'Tester', '45000');
